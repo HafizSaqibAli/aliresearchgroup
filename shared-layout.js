@@ -59,7 +59,7 @@
       <div class="footer-col">
         <h4>Contact</h4>
         <ul>
-          <li><a href="mailto:h.saqib78@gmail.com">h.saqib78@gmail.com</a></li>
+          <li><a href="mailto:H.Saqib-Ali@liverpool.ac.uk">H.Saqib-Ali@liverpool.ac.uk</a></li>
           <li><a href="https://www.liverpool.ac.uk/chemistry/research/medicinal-chemistry/" target="_blank">Medicinal Chemistry Group</a></li>
           <li><a href="+44 (0) 7448520445" target="_blank">+44 (0) 7448520445</a></li>
           <a href="https://orcid.org/0000-0001-5770-5376" target="_blank">
