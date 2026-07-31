@@ -18,7 +18,7 @@
 
   const nav = `
   <nav class="site-nav">
-    <a href="index.html" class="nav-logo">The ALI <span>Research</span> Group</a>
+    <a href="index.html" class="nav-logo">ALI <span>Research</span> Group</a>
     <ul class="nav-menu">${navLinks}</ul>
   </nav>`;
 
@@ -26,7 +26,7 @@
   <footer class="site-footer">
     <div class="footer-grid">
       <div class="footer-brand">
-        <div class="nav-logo">The ALI <span style="color:var(--gold)">Research</span> Group</div>
+        <div class="nav-logo">ALI <span style="color:var(--gold)">Research</span> Group</div>
         <p>Department of Chemistry</p>
         <p>Department of Pharmacology and Therapeutics</p>
         <p>University of Liverpool</p>
@@ -68,7 +68,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      &copy; ${new Date().getFullYear()} The ALI Research Group &nbsp;·&nbsp; University of Liverpool
+      &copy; ${new Date().getFullYear()} ALI Research Group &nbsp;·&nbsp; University of Liverpool
     </div>
   </footer>`;
 
