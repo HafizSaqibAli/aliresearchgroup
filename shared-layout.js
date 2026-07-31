@@ -68,7 +68,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      &copy; ${new Date().getFullYear()} ALI Research Group &nbsp;·&nbsp; University of Liverpool
+      &copy; ${new Date().getFullYear()} The ALI Research Group &nbsp;·&nbsp; University of Liverpool
     </div>
   </footer>`;
 
