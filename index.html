@@ -163,13 +163,14 @@
     .area-content p {
       text-align: justify;
     }
-    <!-- .hero-title {
-      font-size: 7.5rem; /* increase this value as needed, e.g. 4rem, 6rem, 7rem */
-      line-height: 1.1;
-    }-->
     .hero-title {
-      max-width: 100%;   /* or a fixed value like 900px, adjust to your layout */
+      font-size: clamp(2.5rem, 6vw, 4.5rem); /* scales down instead of forcing 3 lines */
+      max-width: 900px;      /* wide enough for 1–2 lines */
       white-space: normal;
+      line-height: 1.15;
+    }
+    .hero-content {
+      max-width: 1000px;     /* make sure the parent isn't constraining it */
     }
 
   </style>
