@@ -28,11 +28,10 @@
       <div class="footer-brand">
         <div class="nav-logo">ALI <span style="color:var(--gold)">Research</span> Group</div>
         <p>Department of Chemistry</p>
-        <p>Department of Pharmacology and Therapeutics</p>
+        <p>Department of Pharmacology & Therapeutics</p>
+        <p>The Robert Robinson Laboratories<p>
         <p>University of Liverpool</p>
-        <p>Crown Street</p>
-        <p>Liverpool</p>
-        <p>L69 7ZD</p>
+        <p>Liverpool, L69 7ZD</p>
         <p>United Kingdom</p>
       </div>
       <div class="footer-col">
